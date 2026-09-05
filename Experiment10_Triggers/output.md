@@ -207,7 +207,8 @@ INSERT INTO emp_records VALUES (201, 'Charlie', 2500);
 - If the inserted salary in the `employees` table is below the condition (e.g., salary < 3000), the insert operation is blocked, and an error message is raised, such as: `ERROR: Salary below minimum threshold.`
 
 ### Output:
-<img width="946" height="748" alt="Screenshot 2026-08-24 214035" src="https://github.com/user-attachments/assets/f0a81124-eda9-4e90-aaa5-ceed3c837b75" />
+<img width="1796" height="876" alt="image" src="https://github.com/user-attachments/assets/08b529f1-5fb6-4f43-89a9-b70f7f08d992" />
+
 
 
 ## RESULT
